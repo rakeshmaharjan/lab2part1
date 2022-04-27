@@ -1,0 +1,22 @@
+body {
+    background-color: dimgrey;
+    color: white;
+}
+
+.about-me>h1 {
+    color: blue;
+
+}
+
+.about-me>h1>span {
+    font-weight: bolder;
+}
+
+.highlight-info{
+    color: yellow;
+}
+
+.font-title{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
